@@ -1,3 +1,5 @@
+Fork developed for [Examine.com](https://examine.com)
+
 # fast-image-size library
 
 ### About
